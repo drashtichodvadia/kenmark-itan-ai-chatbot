@@ -58,3 +58,8 @@ This approach prevents hallucinations and ensures reliable answers.
 ### 1. Install dependencies
 ```bash
 npm install
+
+## 🚀 Live Demo
+
+🔗 https://kenmark-itan-ai-chatbot.vercel.app
+
